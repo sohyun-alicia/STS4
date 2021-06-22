@@ -1,0 +1,5 @@
+package com.ruby.paper.controller;
+
+public class BoardController {
+
+}
