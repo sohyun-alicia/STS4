@@ -6,6 +6,7 @@
 	<item key="Replace" value="true"/>
 	<item key="Comments" value="true"/>
 	<item key="InstanceOf" value="false"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\82108\OneDrive\빅데이터 수업 자료\JSP"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
